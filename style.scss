@@ -168,7 +168,7 @@ img {
   width: 70px;
   height: 70px;
   margin-right: 15px;
-  border-radius:5px;
+  border-radius:5px 5px;
   overflow:hidden;
 
   @include mobile {
