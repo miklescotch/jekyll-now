@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 So - this is my first post. Created from scratch.
 
@@ -11,4 +11,3 @@ I' m disapointed - it's seems like another really extreme opposite side of lazy 
 
 Peace guys, no offense.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
