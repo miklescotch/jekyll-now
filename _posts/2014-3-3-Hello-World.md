@@ -4,9 +4,7 @@ title: I am maked
 published: true
 ---
 
-##
-
-Well let's be claer i am just testin all options of this setup. Practicing my English anf just hanging around. Cause it's funny.
+## Well let's be clear i am just testin all options of this setup. Practicing my English and just hanging around. Cause it's funny.
 
 
 
