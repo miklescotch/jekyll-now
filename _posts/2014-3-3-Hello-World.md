@@ -4,6 +4,13 @@ title: I am maked
 published: true
 ---
 
+##
+
+Well let's be claer i am just testin all options of this setup. Practicing my English anf just hanging around. Cause it's funny.
+
+
+
+
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
