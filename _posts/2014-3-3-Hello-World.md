@@ -4,8 +4,11 @@ title: I am maked
 published: true
 ---
 
-## Well let's be clear i am just testin all options of this setup. Practicing my English and just hanging around. Cause it's funny.
+## A little pre
 
+_Well let's be clear i am just testin all options of this setup. Practicing my English and just hanging around. Cause it's funny._
+
+_It takes 2 minutes to fell changes, so - a little bit frustrating. But just a little bit._
 
 
 
