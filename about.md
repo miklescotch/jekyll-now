@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I'm just a web duuude
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Love music!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[miklescotch@gmail.com](mailto:miklescotch@gmail.com)
