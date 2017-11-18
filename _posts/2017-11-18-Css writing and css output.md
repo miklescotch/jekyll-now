@@ -6,7 +6,7 @@ published: true
 Ok. Let me start about this.
 Let me assume we have some tag container - i'll change syntax a little bit for my needs
 
-	<div - div />
+<div - div />
 
 so we have this div
 let's start to change it's initial css
