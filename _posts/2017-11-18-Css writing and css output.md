@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > Two differincies (Russian fun sentence)
 
@@ -51,11 +51,4 @@ cause first i thought - wow let's have special selectors in use such as:
 Well bad idea jeans - they are too specific
 So?
 
-Lets have unique class all in one - which would have all of this stuff inside. 
-    
- 
-    
-
-
-
-
+Lets have unique class all in one - which would have all of this stuff inside.
