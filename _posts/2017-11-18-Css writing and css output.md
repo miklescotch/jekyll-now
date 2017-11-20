@@ -81,3 +81,21 @@ and + 2 edition adding (exceptional styles for unique class)
 and that is all.
 If you would need remove or change something - you should decide where? unity? bem? or exceptions?
 no need for long BEM mod names, no need to worry for resystemize general unitycss. just 2 editions workflow.
+
+What do you achieve here - you write css once
+
+The you write htmcssl in html only - i mean you are adding details for morphling only in html with classnames from css - so no more avatar__redcolor, avatar__bg_blue
+
+just
+
+`<div class="avatar bgb cr tl db pa"></div>`
+
+Then you would run transpiler which will get rid of unitycss and will make a mess shorthande but - useful still
+
+so you would have html class="avatar__bgbcrtldbpa" and css .avatar__bgbcrtldbpa {with all unity styles}
+
+Then you still have opportunity to edit these styles (and remember this editions in robot memory) - 
+so you are addink some shit in a blank part
+and wow you have all stuff done. 
+
+Of course it s cool when here are no exceptions - everything is bootstrap - but - there no such project till human live on this planet. They are imperfect and projects too.
