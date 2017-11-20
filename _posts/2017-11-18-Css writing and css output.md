@@ -59,3 +59,22 @@ Well bad idea jeans - they are too specific
 So?
 
 Lets have unique class all in one - which would have all of this stuff inside.
+
+That is where this term comes to help - 2 editions workflow.
+
+What does it mean - well, 
+1edit. you are working with unity library and name dom elements with a BEM (or whatever) - and transpile it to BEM+unitycss names and selectors (html and css)
+2edit. You add all human mistakes and non-systematic features to your css generated selector like .avatar_lccbjcbgr (here we have 2 parts - humanreadable and just a abracadabra (for css) - so we have both methods.)
+
+You shouldn't worry about constantly changing your @unitycss@ - it works forever and ever. But you have genereated classname - which is unique - so you just add your @exceptional styles@.
+
+So you have
+unity css as little as possible (lt, cb, bgg, jc. dn)
++
+BEM naming for kind a readable part
+= generated unique class 
+and + 2 edition adding (exceptional styles for unique class)
+
+and that is all.
+If you would need remove or change something - you should decide where? unity? bem? or exceptions?
+no need for long BEM mod names, no need to worry for resystemize general unitycss. just 2 editions workflow.
