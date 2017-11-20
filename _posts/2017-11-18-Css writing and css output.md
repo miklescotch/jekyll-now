@@ -41,11 +41,11 @@ So what we can is have some help-transpiler.
 
 This friend of us will help thus:
 
-	<div class="lt cb avatar j-c"></div>
+``<div class="lt cb avatar j-c"></div>``
 
 transpile into
 
-	<div class="avatar-lt-cb-jc"></div>
+`<div class="avatar-lt-cb-jc"></div>`
 
 Why so?
 
