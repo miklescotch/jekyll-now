@@ -99,3 +99,10 @@ so you are addink some shit in a blank part
 and wow you have all stuff done. 
 
 Of course it s cool when here are no exceptions - everything is bootstrap - but - there no such project till human live on this planet. They are imperfect and projects too.
+
+
+Typically - you would write avatar__color-blue in html
+then add class avatar__color-blue - then you are adding mixins or variables or whatever
+and the you would need to change it - you need to rewrite a line below or make mopre specific selector and the you would need think it over
+
+not anymore
