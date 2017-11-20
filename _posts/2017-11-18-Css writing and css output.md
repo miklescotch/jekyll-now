@@ -11,7 +11,7 @@ Let me assume we have some tag container - i'll change syntax a little bit for m
 so we have this div
 let's start to change it's initial css
 of course we can and would do this on Sketch by adding all style inside element 
-but in our world we need to use classes - shorthands for styles - yeah it;s just a shorthand with id
+but in our world we need to use classes - shorthands for styles - yeah it's just a shorthand with id
 so
 it would look like this
 ```
