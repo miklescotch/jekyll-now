@@ -64,7 +64,9 @@ Lets have unique class all in one - which would have all of this stuff inside.
 That is where this term comes to help - 2 editions workflow.
 
 What does it mean - well, 
+
 1edit. you are working with unity library and name dom elements with a BEM (or whatever) - and transpile it to BEM+unitycss names and selectors (html and css)
+
 2edit. You add all human mistakes and non-systematic features to your css generated selector like .avatar_lccbjcbgr (here we have 2 parts - humanreadable and just a abracadabra (for css) - so we have both methods.)
 
 You shouldn't worry about constantly changing your @unitycss@ - it works forever and ever. But you have genereated classname - which is unique - so you just add your @exceptional styles@.
