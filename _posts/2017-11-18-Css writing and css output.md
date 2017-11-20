@@ -23,9 +23,11 @@ morphling :details
     unique styles-CLASSNAME3
     javascript styles-CLASSNAME4
 
-	<div class="lt cb avatar avatar_blue j-clickable"></div>
-    lt - left top
-    cb - color blue
+```
+<div class="lt cb avatar avatar_blue j-clickable"></div>
+lt - left top
+cb - color blue
+```
     
 This is common idea.
 Lets think about it other way.
