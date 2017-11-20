@@ -3,7 +3,8 @@ published: true
 ---
 > Two differincies (Russian fun sentence)
 
-Ok. Let me start about this.
+Ok. Let me start about this.--
+
 Let me assume we have some tag container - i'll change syntax a little bit for my needs
 
 `<div - div />`
