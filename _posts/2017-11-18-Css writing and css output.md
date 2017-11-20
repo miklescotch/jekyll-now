@@ -14,6 +14,7 @@ of course we can and would do this on Sketch by adding all style inside element
 but in our world we need to use classes - shorthands for styles - yeah it;s just a shorthand with id
 so
 it would look like this
+```
 morphling :details
 	tag: div - means something (symbols:3)
     parent: body - means something
@@ -22,6 +23,7 @@ morphling :details
     common styles-CLASSNAME2
     unique styles-CLASSNAME3
     javascript styles-CLASSNAME4
+```
 
 ```
 <div class="lt cb avatar avatar_blue j-clickable"></div>
